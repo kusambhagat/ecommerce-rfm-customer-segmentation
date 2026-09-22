@@ -10,7 +10,7 @@ Retail businesses collect large amounts of transaction data but often don't use 
 ## Dataset
 - UK Online Retail transactional dataset (~542,000 rows)
 - Source: [UCI Machine Learning Repository – Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
-- Raw data: `data/data.zip` (unzip to get the CSV used in the SQL scripts)
+- Raw data: `data.zip` (unzip to get the CSV used in the SQL scripts)
 
 ## Tools
 SQL Server (T-SQL) · Power BI (DAX) · Python (pandas, Jupyter) · PowerPoint
