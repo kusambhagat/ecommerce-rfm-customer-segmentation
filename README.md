@@ -1,6 +1,7 @@
 # E-Commerce Customer Segmentation (RFM Analysis)
 
 Segmenting customers of a UK online retailer using RFM (Recency, Frequency, Monetary) analysis to support targeted marketing and budget allocation.
+- Raw data: `data/data.zip` (unzip to get the CSV used in the SQL scripts)
 
 ![Dashboard](images/E_Com_Dashboard.jpg)
 
