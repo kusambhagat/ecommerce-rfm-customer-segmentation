@@ -40,4 +40,11 @@ Detailed recommendations for each segment are in the presentation: `docs/Custome
 
 ## Repository Structure
 - `sql/` – data exploration, cleaning, RFM scoring and EDA scripts
-- `powerbi/` –
+- `powerbi/` – interactive dashboard (PBIX)
+- `python/` – RFM validation notebook
+- `data/` – raw dataset (zipped)
+- `images/` – dashboard screenshot
+- `docs/` – project presentation (PPTX)
+
+## Author
+Kusam Bhagat · [LinkedIn](https://linkedin.com/in/kusam-bhagat)
